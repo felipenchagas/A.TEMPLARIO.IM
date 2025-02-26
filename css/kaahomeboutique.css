@@ -1,5 +1,5 @@
 :root {
-  --base-color--primary-main: #402b24;
+  --base-color--primary-main: #011f2c;
   --typography--font-family: Arboria, sans-serif;
   --h1--font-family: var(--heading--h-font-family);
   --heading--dark: var(--base-color--primary-main);
@@ -27,7 +27,7 @@
   --h6--line-height: var(--heading--line-height);
   --h6--letter-spacing: var(--heading--letter-spacing);
   --paragraph-small--font-size: var(--body--font-size-small);
-  --base-color--primary-dark: #2c1e19;
+  --base-color--primary-dark: #011720;
   --base-color--terciary: #d7cfc5;
   --base-color--primary-light: #103b4e;
   --line-height--line-height-distant: 2em;
@@ -35,7 +35,7 @@
   --s-accent-color--light\<deleted\|variable-a002acf3-5d43-8468-275a-400e41f8b22b\>: var(--base-color--secondary-light);
   --base-color--secondary-dark: #569b3f;
   --line-height--line-height-tight: 1em;
-  --base-color--secondary-main: #76ac64;
+  --base-color--secondary-main: #f08543;
   --paragraph-xsmall--font-size: var(--body--font-size-xsmall);
   --paragraph-xsmall--line-height: var(--line-height--line-height-medium);
   --body--letter-spacing: var(--letter-spacing--letter-spacing-medium);
@@ -71,7 +71,7 @@
   --base-color--neutral-900: #191d20;
   --theme-border-color--light: var(--base-color--terciary);
   --base-color--neutral-500: #636d70;
-  --base-color--primary-darker\<deleted\|variable-6a820905-d8db-b7d8-4d0e-1446e9c9df10\>: #402b24;
+  --base-color--primary-darker\<deleted\|variable-6a820905-d8db-b7d8-4d0e-1446e9c9df10\>: #5a2828;
   --base-color--primary-lighter\<deleted\|variable-4180e3b9-9a13-b5ab-f9c5-c5f0e33b9f2e\>: #feb6b6;
   --base-color--terciary-lighter: #faf9f7;
   --base-color--secondary-lighter\<deleted\|variable-fb07e968-40db-7400-6828-e48dc327243a\>: #b3dea5;
@@ -2729,7 +2729,7 @@ p {
 }
 
 .sc-hero {
-  background-image: linear-gradient(#402b2400 53%, #402b24);
+  background-image: linear-gradient(#011f2c00 53%, #011f2c);
   flex-flow: column;
   justify-content: center;
   align-items: stretch;
@@ -2760,7 +2760,7 @@ p {
 
 .sc-plantas-01 {
   padding-top: var(--spacing-section--padding-vertical-main);
-  background-image: linear-gradient(180deg, var(--base-color--primary-main), #402b2400 28%);
+  background-image: linear-gradient(180deg, var(--base-color--primary-main), #011f2c00 28%);
   margin-bottom: -96px;
 }
 
@@ -3088,7 +3088,7 @@ p {
 
 .hero_arrow:hover {
   border-color: var(--base-color--secondary-main);
-  background-color: #76ac641f;
+  background-color: #f085431f;
   transform: translate(0, .25rem);
 }
 
@@ -3831,7 +3831,7 @@ p {
 }
 
 .line-bottom-deco {
-  background-color: #68a36d;
+  background-color: #f08543;
   width: 2rem;
   height: .125rem;
   display: none;
@@ -3867,7 +3867,7 @@ p {
 }
 
 .plantas--dif-icon {
-  color: #68a36d;
+  color: #f08543;
   flex: none;
   width: 1rem;
   height: 1rem;
@@ -4176,7 +4176,7 @@ p {
   transform: scale3d(1none, 1none, 1none);
   color: var(--base-color--terciary);
   transform-style: preserve-3d;
-  background-color: #2c1e19cc;
+  background-color: #011720cc;
   justify-content: center;
   align-items: center;
   transition: all .7s cubic-bezier(.23, 1, .32, 1);
@@ -4845,7 +4845,7 @@ p {
 }
 
 .name-logo-wrap {
-  background-color: #76ac6414;
+  background-color: #f0854314;
   border-radius: .5rem;
   padding: 1rem;
 }
@@ -4933,7 +4933,7 @@ p {
   -webkit-backdrop-filter: grayscale() blur(.375rem);
   backdrop-filter: grayscale() blur(.375rem);
   cursor: pointer;
-  background-color: #2c1e19e6;
+  background-color: #011720e6;
   position: absolute;
   inset: 0%;
 }
@@ -5047,7 +5047,7 @@ p {
 .plt__btn {
   color: #133807;
   letter-spacing: -.25px;
-  background-color: #76ac64;
+  background-color: #f08543;
   border-radius: 4px;
   padding: 20px 40px;
   font-size: 16px;
@@ -5311,7 +5311,7 @@ p {
 }
 
 .tour--bg-down {
-  background-color: #2c1e19;
+  background-color: #011720;
   height: 16.5rem;
   position: absolute;
   inset: auto 0% 0%;
@@ -5319,7 +5319,7 @@ p {
 
 .tour-wrapper {
   border-radius: var(--theme-border-radius--main);
-  background-image: linear-gradient(#402b248f, #402b248f), url('../images/galeria-kaa_28_web_1.png');
+  background-image: linear-gradient(#011f2c8f, #011f2c8f), url('../images/galeria-kaa_28_web_1.webp');
   background-position: 0 0, 0 0;
   background-size: auto, cover;
   justify-content: flex-start;
@@ -5960,7 +5960,7 @@ p {
     text-align: right;
     letter-spacing: 0;
     text-transform: none;
-    background-color: #402b24b3;
+    background-color: #011f2cb3;
     width: 45%;
     max-width: none;
     margin-bottom: 1.5rem;
@@ -7484,7 +7484,7 @@ p {
     border: 1px solid var(--base-color--secondary-main);
     color: var(--base-color--primary-light);
     text-align: center;
-    background-color: #76ac6414;
+    background-color: #f0854314;
     border-radius: .5rem;
     justify-content: flex-start;
     align-items: center;
@@ -7833,7 +7833,7 @@ p {
 
   .tour-wrapper {
     aspect-ratio: 9 / 16;
-    background-image: linear-gradient(to bottom, null, null), url('../images/galeria-kaa_28_web_1.png');
+    background-image: linear-gradient(to bottom, null, null), url('../images/galeria-kaa_28_web_1.webp');
     background-position: 0 0, 50%;
     width: 100%;
     height: auto;
