@@ -284,6 +284,37 @@ body::-webkit-scrollbar-track {
     position: relative; /* Adiciona posição relativa para o pseudoelemento */
 }
 </style>
+<style>
+  /* Para telas menores que 768px */
+  @media (max-width: 767px) {
+    /* Evita overflow horizontal */
+    #tour {
+      overflow-x: hidden;
+      padding: 20px 10px; /* Reduz o padding geral para mobile */
+    }
+    /* Ajusta o container para usar a largura total disponível */
+    .tour--container-medium {
+      max-width: 100%;
+      padding: 0 15px;
+      margin: 0 auto;
+    }
+    /* Reduz o tamanho das fontes para não estourar a tela */
+    .tour_title {
+      font-size: 1.5em; /* Ajuste conforme necessário */
+      line-height: 1.2;
+    }
+    .tour_subtitle {
+      font-size: 1em;
+    }
+    /* Se os SVGs ou imagens estiverem causando overflow, ajuste-os também */
+    .tour-icon svg,
+    .overline_icon svg {
+      width: 30px;
+      height: 30px;
+    }
+  }
+</style>
+
       </div>
       <div class="custom-media-query w-embed">
         <style>
@@ -542,7 +573,7 @@ var url = document.location.href;
               <p class="heading-subtitle">
                 Localizado numa rua tranquila, em região nobre de Curitiba, na divisa com o Jardim Social, o empreendimento une modernidade, praticidade e conforto para sua família.
               </p>
-              <img src="images/line-divider-heading.svg" loading="lazy" alt="" class="kv-divider">
+              <img src="images/line-divider-heading.png" loading="lazy" alt="" class="kv-divider">
             </div>
             <div id="w-node-_88d05608-60ad-d8ef-1fa0-2caff01eb5c6-9f782c96" class="sc-header__text">
               <p class="text-size-medium">
@@ -616,7 +647,7 @@ var url = document.location.href;
             <p class="heading-style-h4">
               Descubra cada detalhe dos <span class="heading-span">apartamentos duplex</span>
             </p>
-            <img src="images/line-divider-heading.svg" loading="lazy" alt="" class="kv-divider">
+            <img src="images/line-divider-heading.png" loading="lazy" alt="" class="kv-divider">
           </div>
           <div class="sc-header__text">
             <p class="text-size-medium">
@@ -640,7 +671,7 @@ var url = document.location.href;
 
   
   
-<section id="galeria-material" style="padding: 40px 0; background-color: #f9f9f9;">
+<section id="video"  style="padding: 40px 0; background-color: #f9f9f9;">
   <div style="max-width: 1200px; margin: 0 auto; text-align: center;">
     <h2 style="font-size: 2em; margin-bottom: 10px;">Materiais de Alta Qualidade</h2>
     <hr style="border: 0; height: 2px; background: #000; width: 50px; margin: 0 auto 40px;">
@@ -708,11 +739,11 @@ var url = document.location.href;
                     <p class="planta--metragem"><span class="metragem-span">2</span> DORMITÓRIOS (2 SUÍTES)</p>
                     <p class="planta_diferencial">Planta tipo</p>
                     <div class="show-mobile">
-                      <img src="images/line-divider-heading.svg" loading="lazy" alt="" class="kv-divider mobile-plantas">
+                      <img src="images/line-divider-heading.png" loading="lazy" alt="" class="kv-divider mobile-plantas">
                     </div>
                   </div>
                   <div class="hide-mobile">
-                    <img src="images/line-divider-heading.svg" loading="lazy" alt="" class="kv-divider mobile-plantas">
+                    <img src="images/line-divider-heading.png" loading="lazy" alt="" class="kv-divider mobile-plantas">
                   </div>
                   <div class="plantas--dorms-wrap">
                     <p class="plantas_dorms"><span class="dorms_span">89 a 100</span> m²</p>
@@ -888,7 +919,7 @@ var url = document.location.href;
                 <p class="tour_subtitle heading-subtitle">
                   Embarque em uma jornada por espaços inovadores, elegantes e modernos.
                 </p>
-                <img src="images/line-divider-heading.svg" loading="lazy" alt="" class="kv-divider">
+                <img src="images/line-divider-heading.png" loading="lazy" alt="" class="kv-divider">
               </div>
             </div>
           </div>
@@ -981,7 +1012,7 @@ var url = document.location.href;
                       <p class="heading-style-h4">
                         Rua Monte Castelo, 821 – <span class="heading-span">Próximo à Praça das Nações</span>
                       </p>
-                      <img src="images/line-divider-heading.svg" loading="lazy" alt="" class="kv-divider">
+                      <img src="images/line-divider-heading.png" loading="lazy" alt="" class="kv-divider">
                     </div>
                   </div>
                 </div>
@@ -1022,7 +1053,7 @@ var url = document.location.href;
           </div>
           <div class="sc-header__title">
             <p class="heading-style-h4">Eleve sua experiência de morar em um espaço único</p>
-            <img src="images/line-divider-heading.svg" loading="lazy" alt="" class="kv-divider">
+            <img src="images/line-divider-heading.png" loading="lazy" alt="" class="kv-divider">
           </div>
           <div class="sc-header__text">
             <p class="text-size-medium">Confira abaixo os principais dados do empreendimento.</p>
