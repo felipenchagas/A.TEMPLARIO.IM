@@ -5319,7 +5319,7 @@ p {
 
 .tour-wrapper {
   border-radius: var(--theme-border-radius--main);
-  background-image: linear-gradient(#011f2c8f, #011f2c8f), url('../images/galeria-kaa_28_web_1.webp');
+  background-image: linear-gradient(#011f2c8f, #011f2c8f), url('../images/material/6.png');
   background-position: 0 0, 0 0;
   background-size: auto, cover;
   justify-content: flex-start;
@@ -7833,7 +7833,7 @@ p {
 
   .tour-wrapper {
     aspect-ratio: 9 / 16;
-    background-image: linear-gradient(to bottom, null, null), url('../images/galeria-kaa_28_web_1.webp');
+    background-image: linear-gradient(to bottom, null, null), url('../images/material/6.png');
     background-position: 0 0, 50%;
     width: 100%;
     height: auto;
