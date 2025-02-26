@@ -640,71 +640,45 @@ var url = document.location.href;
 
   
   
-  <!-- Vídeo -->
-  <section id="video" class="sc-video">
-    <div data-poster-url="https://uploads-ssl.webflow.com/6669c2dfb76c62389f782c9b%2F6679980f128a7e81e58c3e51_kaa_home_boutique_video_web-poster-00001.jpg" data-video-urls="#" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="video_full is-video-big w-background-video w-background-video-atom">
-      <video id="c524bf82-647d-1ac1-f588-e01cdb140343-video" autoplay loop style="background-image:url('6669c2dfb76c62389f782c9b6679980f128a7e81e58c3e51_kaa_home_boutique_video_web-poster-00001.jpg')" muted playsinline data-wf-ignore="true" data-object-fit="cover">
-        <source src="#" data-wf-ignore="true">
-        <source src="#" data-wf-ignore="true">
-      </video>
-      <div class="overlay-video"></div>
+<section id="galeria-material" style="padding: 40px 0; background-color: #f9f9f9;">
+  <div style="max-width: 1200px; margin: 0 auto; text-align: center;">
+    <h2 style="font-size: 2em; margin-bottom: 10px;">Materiais de Alta Qualidade</h2>
+    <hr style="border: 0; height: 2px; background: #000; width: 50px; margin: 0 auto 40px;">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+      <a href="images/material/3.png" style="display: block; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" onclick="openModal(event, 'images/material/3.png')">
+        <img src="images/material/3.png" alt="Material 3" style="width: 100%; display: block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      </a>
+      <a href="images/material/4.png" style="display: block; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" onclick="openModal(event, 'images/material/4.png')">
+        <img src="images/material/4.png" alt="Material 4" style="width: 100%; display: block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      </a>
+      <a href="images/material/5.png" style="display: block; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" onclick="openModal(event, 'images/material/5.png')">
+        <img src="images/material/5.png" alt="Material 5" style="width: 100%; display: block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      </a>
+      <a href="images/material/6.png" style="display: block; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" onclick="openModal(event, 'images/material/6.png')">
+        <img src="images/material/6.png" alt="Material 6" style="width: 100%; display: block; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+      </a>
     </div>
-    <div class="sc-dividers">
-      <img src="images/divider-small-02-creme.svg" loading="lazy" alt="" class="sc-divider-top">
-      <img src="images/divider-small-01-default.png.svg" loading="lazy" alt="" class="sc-divider-bottom">
-    </div>
-    <div class="padding-global">
-      <div class="w-layout-blockcontainer container-medium w-container">
-        <div class="sc_content-wrap">
-          <div class="w-layout-grid video_grid">
-            <div class="w-layout-grid header is-video-header">
-              <div class="overline_wrap">
-                <div class="overline_icon w-embed">
-                  <svg width="100%" height="100%" viewbox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M15.2597 7.15109C14.9009 6.09234 14.2447 5.06859 13.4222 4.27234C12.8797 3.74734 12.2672 3.30984 11.5934 2.96859C11.3572 2.84609 11.0772 2.88109 10.8759 3.04734C10.0272 3.75609 9.24844 4.56984 8.56594 5.44484C7.88344 6.32859 7.46344 6.85359 7.17469 7.71984C6.58844 9.46109 7.01719 11.0711 7.16594 11.5961C7.33219 12.1998 7.51594 12.5936 7.67344 12.9086C7.85719 13.2936 7.97969 13.5473 8.02344 14.0986C8.04969 14.4661 8.02344 14.7023 7.98844 14.9298C7.94469 15.2536 7.90094 15.5861 8.06719 16.0323C8.38219 16.8986 9.23969 17.5111 10.6484 17.8961V19.3136C10.6484 19.6723 10.9459 19.9698 11.3047 19.9698C11.6634 19.9698 11.9609 19.6723 11.9609 19.3136V17.9048C13.1859 17.6161 14.0609 17.0823 14.5072 16.3036C14.8397 15.7261 14.8222 15.2361 14.8047 14.7198C14.7959 14.3261 14.7784 13.8273 14.9009 13.0836C15.0059 12.4448 15.1284 12.1298 15.2509 11.8148C15.3909 11.4473 15.5397 11.0623 15.6097 10.3273C15.7497 8.87484 15.4522 7.71984 15.2597 7.15984V7.15109ZM9.12594 12.9873C9.04719 12.7423 8.94219 12.5411 8.84594 12.3398C8.70594 12.0511 8.55719 11.7448 8.42594 11.2548C8.35594 11.0098 8.22469 10.4761 8.18969 9.81109L10.6309 10.9661V14.0811L9.11719 12.9873H9.12594ZM11.9522 9.15484L14.0697 7.74609C14.2097 8.20109 14.4109 9.09359 14.2972 10.1961C14.2622 10.5898 14.2009 10.8261 14.1222 11.0536L11.9522 12.3311V9.16359V9.15484ZM13.5272 6.52984L11.9522 7.57984V4.74484C12.1447 4.89359 12.3284 5.05109 12.5034 5.21734C12.9584 5.65484 13.2822 6.11859 13.5272 6.52984ZM9.59844 6.25859C9.92219 5.84734 10.2722 5.45359 10.6397 5.07734V9.52234L8.33844 8.43734C8.36469 8.34109 8.38219 8.24484 8.41719 8.14859C8.63594 7.50109 8.95969 7.08984 9.59844 6.26734V6.25859ZM9.28344 15.5861C9.23094 15.4548 9.23969 15.3673 9.28344 15.1136C9.30094 15.0173 9.30969 14.8948 9.31844 14.7548L10.6397 15.7086V16.5311C9.89594 16.2861 9.42344 15.9623 9.28344 15.5861ZM13.3609 15.6473C13.1334 16.0498 12.6522 16.3561 11.9522 16.5661V13.8536L13.5972 12.8911C13.4572 13.7486 13.4747 14.3348 13.4834 14.7636C13.5009 15.2448 13.4922 15.4111 13.3522 15.6561L13.3609 15.6473Z" fill="currentColor"></path>
-                  </svg>
-                </div>
-                <p class="heading-style-h2">Vídeo - Edifício Templários</p>
-                <img src="images/line-divider-heading.svg" loading="lazy" alt="" class="kv-divider">
-              </div>
-            </div>
-          </div>
-          <div id="w-node-_250a5786-f951-f34d-4ec0-d7ef99e693dd-9f782c96" class="video-play">
-            <div class="hover-btn-component hover-btn-video">
-              <a href="#" class="hover-link w-inline-block w-lightbox">
-                <img width="24" loading="lazy" alt="Ícone de play" src="images/play24x242x.svg" class="play-icon">
-                <script type="application/json" class="w-json">
-                  {
-                    "items": [
-                      {
-                        "url": "#",
-                        "originalUrl": "#",
-                        "width": 940,
-                        "height": 528,
-                        "thumbnailUrl": "https://i.ytimg.com/vi/47dI-2OsR_w/hqdefault.jpg",
-                        "html": "<iframe class=\"embedly-embed\" src=\"#" width=\"940\" height=\"528\" scrolling=\"no\" title=\"YouTube embed\" frameborder=\"0\" allow=\"autoplay; fullscreen; encrypted-media; picture-in-picture;\" allowfullscreen=\"true\"></iframe>",
-                        "type": "video"
-                      }
-                    ],
-                    "group": ""
-                  }
-                </script>
-              </a>
-            </div>
-            <div class="text-block">
-              <div class="text-color text-color-dark-bg">
-                <div class="text-align text-align-center">
-                  <div class="font-weight font-weight-300">
-                    <p class="p-text-2 p-text-small">Assista ao vídeo</p>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+  </div>
+</section>
+
+<!-- Modal para exibir a imagem ampliada -->
+<div id="imageModal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); align-items: center; justify-content: center; z-index: 1000;" onclick="closeModal()">
+  <img id="modalImage" src="" alt="Imagem ampliada" style="max-width: 90%; max-height: 90%; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;">
+</div>
+
+<script>
+  function openModal(event, imgSrc) {
+    event.preventDefault(); // impede que o link abra em nova janela ou navegue
+    document.getElementById('modalImage').src = imgSrc;
+    document.getElementById('imageModal').style.display = 'flex';
+  }
+  
+  function closeModal() {
+    document.getElementById('imageModal').style.display = 'none';
+  }
+</script>
+
+
   
 <!-- parte 4 -->
 <section id="plantas" class="sc-plantas-02">
