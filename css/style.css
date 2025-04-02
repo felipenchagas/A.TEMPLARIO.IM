@@ -7779,11 +7779,20 @@ p {
     display: flex;
   }
 
+<style>
   .produto-title {
     letter-spacing: 6px;
     font-size: 3rem;
     font-weight: 300;
   }
+
+  @media screen and (max-width: 500px) {
+    .produto-title {
+      font-size: 1.5rem;
+    }
+  }
+</style>
+
 
   .plt-hero {
     align-items: flex-end;
