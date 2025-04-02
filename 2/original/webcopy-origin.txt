@@ -1,0 +1,592 @@
+Uri: https://cdn.jsdelivr.net/gh/studio-freight/lenis@latest/bundled/lenis.js
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\gh\studio-freight\lenis@latest\bundled\lenis.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6669c2dfb76c62389f782c9b
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://kaahomeboutique.com.br/
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\index.htm
+Content Type: text/html
+
+Uri: https://kaahomeboutique.com.br/css/components.css
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\css\components.css
+Content Type: text/css
+
+Uri: https://kaahomeboutique.com.br/css/kaahomeboutique.css
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\css\kaahomeboutique.css
+Content Type: text/css
+
+Uri: https://kaahomeboutique.com.br/css/normalize.css
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\css\normalize.css
+Content Type: text/css
+
+Uri: https://kaahomeboutique.com.br/fonts/Arboria-Black.otf
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\fonts\Arboria-Black.otf
+Content Type: font/ttf
+
+Uri: https://kaahomeboutique.com.br/fonts/Arboria-Bold.otf
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\fonts\Arboria-Bold.otf
+Content Type: font/ttf
+
+Uri: https://kaahomeboutique.com.br/fonts/Arboria-Book.otf
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\fonts\Arboria-Book.otf
+Content Type: font/ttf
+
+Uri: https://kaahomeboutique.com.br/fonts/Arboria-Light.otf
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\fonts\Arboria-Light.otf
+Content Type: font/ttf
+
+Uri: https://kaahomeboutique.com.br/fonts/Arboria-Medium.otf
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\fonts\Arboria-Medium.otf
+Content Type: font/ttf
+
+Uri: https://kaahomeboutique.com.br/fonts/Arboria-Thin.otf
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\fonts\Arboria-Thin.otf
+Content Type: font/ttf
+
+Uri: https://kaahomeboutique.com.br/images/chat_icon.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\chat_icon.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-01-dark.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-01-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-02-creme.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-02-creme.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-02-dark.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-02-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-02-light.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-02-light.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-03-dark.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-03-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-03-default.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-03-default.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-04-dark.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-04-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-small-01-creme.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-small-01-creme.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-small-01-default.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-small-01-default.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-small-02-creme.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-small-02-creme.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-small-02-dark.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-small-02-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-small-02-default.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-small-02-default.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-small-03-creme.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-small-03-creme.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/divider-small-03-dark.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\divider-small-03-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/Fachada-Iguatemi-Alphaville_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\Fachada-Iguatemi-Alphaville_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/Fachada-Iguatemi-Alphaville_1Fachada-Iguatemi-Alphaville.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\Fachada-Iguatemi-Alphaville_1Fachada-Iguatemi-Alphaville.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/favicon.png
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\favicon.png
+Content Type: image/png
+
+Uri: https://kaahomeboutique.com.br/images/folhas_kaa-1-min_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\folhas_kaa-1-min_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/folhas_kaa-1-min_1folhas_kaa-1-min.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\folhas_kaa-1-min_1folhas_kaa-1-min.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/folhas_kaa-2-min.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\folhas_kaa-2-min.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/folhas_kaa-3-min_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\folhas_kaa-3-min_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/folhas_kaa-3-min_1folhas_kaa-3-min.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\folhas_kaa-3-min_1folhas_kaa-3-min.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/folhas_kaa-4-min_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\folhas_kaa-4-min_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/folhas_kaa-4-min_1folhas_kaa-4-min.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\folhas_kaa-4-min_1folhas_kaa-4-min.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_01_thumb_web_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_01_thumb_web_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_01_thumb_web_1galeria-kaa_01_thumb_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_01_thumb_web_1galeria-kaa_01_thumb_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_02_web_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_02_web_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_02_web_1galeria-kaa_02_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_02_web_1galeria-kaa_02_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_03_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_03_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_03_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_03_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_04_web_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_04_web_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_04_web_1galeria-kaa_04_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_04_web_1galeria-kaa_04_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_05_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_05_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_05_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_05_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_06_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_06_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_06_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_06_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_07_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_07_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_07_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_07_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_08_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_08_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_08_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_08_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_09_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_09_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_09_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_09_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_10_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_10_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_10_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_10_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_11_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_11_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_11_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_11_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_12_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_12_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_12_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_12_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_13_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_13_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_13_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_13_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_16_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_16_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_16_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_16_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_17_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_17_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_17_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_17_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_18_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_18_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_18_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_18_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_19_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_19_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_19_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_19_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_20_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_20_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_20_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_20_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_21_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_21_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_21_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_21_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_22_web_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_22_web_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_22_web_1galeria-kaa_22_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_22_web_1galeria-kaa_22_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_23_web_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_23_web_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_23_web_1galeria-kaa_23_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_23_web_1galeria-kaa_23_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_24_web.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_24_web.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_24_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_24_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_25_web_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_25_web_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_25_web_1galeria-kaa_25_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_25_web_1galeria-kaa_25_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_26_web_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_26_web_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_26_web_1galeria-kaa_26_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_26_web_1galeria-kaa_26_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_28_web_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_28_web_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_28_web_1galeria-kaa_28_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_28_web_1galeria-kaa_28_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_29_web_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_29_web_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/galeria-kaa_29_web_1galeria-kaa_29_web.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\galeria-kaa_29_web_1galeria-kaa_29_web.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/grey-transparent_1grey-transparent.png
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\grey-transparent_1grey-transparent.png
+Content Type: image/png
+
+Uri: https://kaahomeboutique.com.br/images/icon-car.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-car.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-lazer-01.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-lazer-01.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-lazer-02.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-lazer-02.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-lazer-03.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-lazer-03.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-lazer-04.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-lazer-04.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-lazer-05.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-lazer-05.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-lazer-06.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-lazer-06.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-local-large-1.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-local-large-1.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-local-large-2.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-local-large-2.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-local-large-3.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-local-large-3.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-local-large-4.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-local-large-4.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-local-large-5.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-local-large-5.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-local-large-6.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-local-large-6.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-local-large.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-local-large.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-localizacao-01.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-localizacao-01.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-localizacao-02.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-localizacao-02.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-localizacao-03.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-localizacao-03.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-localizacao-04.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-localizacao-04.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-sobre-01.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-sobre-01.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/icon-sobre-02.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\icon-sobre-02.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/image-local-01.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\image-local-01.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/image-local-02.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\image-local-02.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/image-local-03.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\image-local-03.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/image-local-04.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\image-local-04.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/image-sobre-min.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\image-sobre-min.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/label-icon.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\label-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/legenda-shape.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\legenda-shape.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/line-divider-heading.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\line-divider-heading.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/logo-upgrade-white.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\logo-upgrade-white.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/logo_kaa_creme.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\logo_kaa_creme.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/logo_kaa_creme_1.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\logo_kaa_creme_1.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/logo_kaa_primary.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\logo_kaa_primary.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/LOGO_RSF_16_ANOS_BRANCO.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\LOGO_RSF_16_ANOS_BRANCO.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/masked-image-min_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\masked-image-min_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/masked-image-min_1masked-image-min.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\masked-image-min_1masked-image-min.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/noise-pattern.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\noise-pattern.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/noise_pattern_02.png
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\noise_pattern_02.png
+Content Type: image/png
+
+Uri: https://kaahomeboutique.com.br/images/organic-line_white.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\organic-line_white.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/planta_sala_ampliada_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\planta_sala_ampliada_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/planta_sala_ampliada_1planta_sala_ampliada.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\planta_sala_ampliada_1planta_sala_ampliada.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/planta_tipo_1.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\planta_tipo_1.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/planta_tipo_1planta_tipo.webp
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\planta_tipo_1planta_tipo.webp
+Content Type: 
+
+Uri: https://kaahomeboutique.com.br/images/play24x242x.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\play24x242x.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/ss-wallpaper.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\ss-wallpaper.jpg
+Content Type: image/jpeg
+
+Uri: https://kaahomeboutique.com.br/images/street-icon.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\street-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://kaahomeboutique.com.br/images/webclip.png
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\webclip.png
+Content Type: image/png
+
+Uri: https://kaahomeboutique.com.br/images/webflow-spacing-bg-final_1webflow-spacing-bg-final.png
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\images\webflow-spacing-bg-final_1webflow-spacing-bg-final.png
+Content Type: image/png
+
+Uri: https://kaahomeboutique.com.br/index.html
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\index.html
+Content Type: text/html
+
+Uri: https://kaahomeboutique.com.br/js/kaahomeboutique.js
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\js\kaahomeboutique.js
+Content Type: application/javascript
+
+Uri: https://kaahomeboutique.com.br/politica-de-privacidade.html
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\politica-de-privacidade.html
+Content Type: text/html
+
+Uri: https://koi-3qn74r9syu.marketingautomation.services/client/form.js?ver=2.0.1
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\client\form.js
+Content Type: application/javascript
+
+Uri: https://uploads-ssl.webflow.com/6638dafab85ba233dc7f4434/6638dafab85ba233dc7f4473_logo-spitaletti-50-white.svg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\6638dafab85ba233dc7f4434\6638dafab85ba233dc7f4473_logo-spitaletti-50-white.svg
+Content Type: image/svg+xml
+
+Uri: https://uploads-ssl.webflow.com/6669c2dfb76c62389f782c9b%2F66719e76a1251f45ceafab89_alphagran_otimizado-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\6669c2dfb76c62389f782c9b66719e76a1251f45ceafab89_alphagran_otimizado-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/6669c2dfb76c62389f782c9b%2F66719e76a1251f45ceafab89_alphagran_otimizado-transcode.mp4
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\6669c2dfb76c62389f782c9b66719e76a1251f45ceafab89_alphagran_otimizado-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://uploads-ssl.webflow.com/6669c2dfb76c62389f782c9b%2F66719e76a1251f45ceafab89_alphagran_otimizado-transcode.webm
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\6669c2dfb76c62389f782c9b66719e76a1251f45ceafab89_alphagran_otimizado-transcode.webm
+Content Type: video/webm
+
+Uri: https://uploads-ssl.webflow.com/6669c2dfb76c62389f782c9b%2F6679980f128a7e81e58c3e51_kaa_home_boutique_video_web-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\6669c2dfb76c62389f782c9b6679980f128a7e81e58c3e51_kaa_home_boutique_video_web-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://uploads-ssl.webflow.com/6669c2dfb76c62389f782c9b%2F6679980f128a7e81e58c3e51_kaa_home_boutique_video_web-transcode.mp4
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\6669c2dfb76c62389f782c9b6679980f128a7e81e58c3e51_kaa_home_boutique_video_web-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://uploads-ssl.webflow.com/6669c2dfb76c62389f782c9b%2F6679980f128a7e81e58c3e51_kaa_home_boutique_video_web-transcode.webm
+File Name: C:\Downloaded Web Sites\kaahomeboutique.com.br\6669c2dfb76c62389f782c9b6679980f128a7e81e58c3e51_kaa_home_boutique_video_web-transcode.webm
+Content Type: video/webm
+
