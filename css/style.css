@@ -5002,8 +5002,8 @@ p {
 .produto-title {
   color: var(--base-color--secondary-main);
   text-align: center;
-  letter-spacing: 8px;
-  font-size: 4rem;
+ 
+  font-size: 3rem;
   font-weight: 400;
   line-height: 1;
 }
