@@ -1290,118 +1290,135 @@ var url = document.location.href;
               </div>
 
               <!-- Início da grade de locais próximos (3 filas, 4 colunas) -->
-              <div style="display: flex; flex-direction: column; gap: 30px;">
-                
-                <!-- Linha 1 -->
-                <div style="display: flex; justify-content: space-between; gap: 20px;">
-                  <!-- Card 1 -->
-                  <div style="width: 25%; text-align: center;">
-                    <img src="locais/academia-carpediem.jpg" 
-                         alt="Academia Carpediem" 
-                         style="max-width: 100%; height: auto; border-radius: 4px;">
-                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Academia Carpediem</p>
-                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">6 min — 2,2 km</p>
-                  </div>
-                  <!-- Card 2 -->
-                  <div style="width: 25%; text-align: center;">
-                    <img src="locais/colegio-bom-jesus.jpg" 
-                         alt="Colégio Bom Jesus" 
-                         style="max-width: 100%; height: auto; border-radius: 4px;">
-                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Colégio Bom Jesus</p>
-                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">14 min — 5,2 km</p>
-                  </div>
-                  <!-- Card 3 -->
-                  <div style="width: 25%; text-align: center;">
-                    <img src="locais/colegio-positivo-ambiental.jpg" 
-                         alt="Colégio Positivo Ambiental" 
-                         style="max-width: 100%; height: auto; border-radius: 4px;">
-                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Colégio Positivo Ambiental</p>
-                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">7 min — 2,4 km</p>
-                  </div>
-                  <!-- Card 4 -->
-                  <div style="width: 25%; text-align: center;">
-                    <img src="locais/colegio-positivo.jpg" 
-                         alt="Colégio Positivo" 
-                         style="max-width: 100%; height: auto; border-radius: 4px;">
-                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Colégio Positivo</p>
-                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">19 min — 7,6 km</p>
-                  </div>
-                </div>
+             <!-- Bloco de estilo com media queries -->
+<style>
+  @media (max-width: 768px) {
+    /* Altera a direção do flex container para coluna */
+    .linha-flex {
+      flex-direction: column !important;
+    }
+    /* Faz cada card ocupar 100% da largura da linha */
+    .card-item {
+      width: 100% !important;
+      margin-bottom: 20px;
+    }
+  }
+</style>
 
-                <!-- Linha 2 -->
-                <div style="display: flex; justify-content: space-between; gap: 20px;">
-                  <!-- Card 1 -->
-                  <div style="width: 25%; text-align: center;">
-                    <img src="locais/familia-farinha-lima.jpg" 
-                         alt="Familia Farinha Lima" 
-                         style="max-width: 100%; height: auto; border-radius: 4px;">
-                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Familia Farinha Lima</p>
-                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">4 min — 1,5 km</p>
-                  </div>
-                  <!-- Card 2 -->
-                  <div style="width: 25%; text-align: center;">
-                    <img src="locais/festival-jardim-social.jpg" 
-                         alt="Festival Jardim Social" 
-                         style="max-width: 100%; height: auto; border-radius: 4px;">
-                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Festival Jardim Social</p>
-                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">3 min — 1,2 km</p>
-                  </div>
-                  <!-- Card 3 -->
-                  <div style="width: 25%; text-align: center;">
-                    <img src="locais/hospital-das-nacoes.jpg" 
-                         alt="Hospital das Nações" 
-                         style="max-width: 100%; height: auto; border-radius: 4px;">
-                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Hospital das Nações</p>
-                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">4 min — 1,7 km</p>
-                  </div>
-                  <!-- Card 4 -->
-                  <div style="width: 25%; text-align: center;">
-                    <img src="locais/hospital-marcelino-champagna.jpg" 
-                         alt="Hospital Marcelino Champagnat" 
-                         style="max-width: 100%; height: auto; border-radius: 4px;">
-                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Hospital Marcelino Champagnat</p>
-                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">7 min — 2,3 km</p>
-                  </div>
-                </div>
+<!-- Conteúdo HTML atualizado -->
+<div style="display: flex; flex-direction: column; gap: 30px;">
+  
+  <!-- Linha 1 -->
+  <div style="display: flex; justify-content: space-between; gap: 20px;" class="linha-flex">
+    <!-- Card 1 -->
+    <div style="width: 25%; text-align: center;" class="card-item">
+      <img src="locais/academia-carpediem.jpg" 
+           alt="Academia Carpediem" 
+           style="max-width: 100%; height: auto; border-radius: 4px;">
+      <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Academia Carpediem</p>
+      <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">6 min — 2,2 km</p>
+    </div>
+    <!-- Card 2 -->
+    <div style="width: 25%; text-align: center;" class="card-item">
+      <img src="locais/colegio-bom-jesus.jpg" 
+           alt="Colégio Bom Jesus" 
+           style="max-width: 100%; height: auto; border-radius: 4px;">
+      <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Colégio Bom Jesus</p>
+      <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">14 min — 5,2 km</p>
+    </div>
+    <!-- Card 3 -->
+    <div style="width: 25%; text-align: center;" class="card-item">
+      <img src="locais/colegio-positivo-ambiental.jpg" 
+           alt="Colégio Positivo Ambiental" 
+           style="max-width: 100%; height: auto; border-radius: 4px;">
+      <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Colégio Positivo Ambiental</p>
+      <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">7 min — 2,4 km</p>
+    </div>
+    <!-- Card 4 -->
+    <div style="width: 25%; text-align: center;" class="card-item">
+      <img src="locais/colegio-positivo.jpg" 
+           alt="Colégio Positivo" 
+           style="max-width: 100%; height: auto; border-radius: 4px;">
+      <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Colégio Positivo</p>
+      <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">19 min — 7,6 km</p>
+    </div>
+  </div>
 
-                <!-- Linha 3 -->
-                <div style="display: flex; justify-content: space-between; gap: 20px;">
-                  <!-- Card 1 -->
-                  <div style="width: 25%; text-align: center;">
-                    <img src="locais/jardim-botanico.jpg" 
-                         alt="Jardim Botânico" 
-                         style="max-width: 100%; height: auto; border-radius: 4px;">
-                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Jardim Botânico</p>
-                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">8 min — 3,4 km</p>
-                  </div>
-                  <!-- Card 2 -->
-                  <div style="width: 25%; text-align: center;">
-                    <img src="locais/madero-jardim-social.jpg" 
-                         alt="Madero Jardim Social" 
-                         style="max-width: 100%; height: auto; border-radius: 4px;">
-                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Madero Jardim Social</p>
-                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">4 min — 1,4 km</p>
-                  </div>
-                  <!-- Card 3 -->
-                  <div style="width: 25%; text-align: center;">
-                    <img src="locais/muffato.jpg" 
-                         alt="Muffato" 
-                         style="max-width: 100%; height: auto; border-radius: 4px;">
-                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Muffato</p>
-                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">
-                      3 min 700 m 1 min
-                    </p>
-                  </div>
-                  <!-- Card 4 -->
-                  <div style="width: 25%; text-align: center;">
-                    <img src="locais/torre-sanepar.jpg" 
-                         alt="Torre Sanepar" 
-                         style="max-width: 100%; height: auto; border-radius: 4px;">
-                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Torre Sanepar</p>
-                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">25 min (6,8 km)</p>
-                  </div>
-                </div>
-              </div>
+  <!-- Linha 2 -->
+  <div style="display: flex; justify-content: space-between; gap: 20px;" class="linha-flex">
+    <!-- Card 1 -->
+    <div style="width: 25%; text-align: center;" class="card-item">
+      <img src="locais/familia-farinha-lima.jpg" 
+           alt="Familia Farinha Lima" 
+           style="max-width: 100%; height: auto; border-radius: 4px;">
+      <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Familia Farinha Lima</p>
+      <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">4 min — 1,5 km</p>
+    </div>
+    <!-- Card 2 -->
+    <div style="width: 25%; text-align: center;" class="card-item">
+      <img src="locais/festival-jardim-social.jpg" 
+           alt="Festival Jardim Social" 
+           style="max-width: 100%; height: auto; border-radius: 4px;">
+      <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Festival Jardim Social</p>
+      <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">3 min — 1,2 km</p>
+    </div>
+    <!-- Card 3 -->
+    <div style="width: 25%; text-align: center;" class="card-item">
+      <img src="locais/hospital-das-nacoes.jpg" 
+           alt="Hospital das Nações" 
+           style="max-width: 100%; height: auto; border-radius: 4px;">
+      <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Hospital das Nações</p>
+      <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">4 min — 1,7 km</p>
+    </div>
+    <!-- Card 4 -->
+    <div style="width: 25%; text-align: center;" class="card-item">
+      <img src="locais/hospital-marcelino-champagna.jpg" 
+           alt="Hospital Marcelino Champagnat" 
+           style="max-width: 100%; height: auto; border-radius: 4px;">
+      <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Hospital Marcelino Champagnat</p>
+      <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">7 min — 2,3 km</p>
+    </div>
+  </div>
+
+  <!-- Linha 3 -->
+  <div style="display: flex; justify-content: space-between; gap: 20px;" class="linha-flex">
+    <!-- Card 1 -->
+    <div style="width: 25%; text-align: center;" class="card-item">
+      <img src="locais/jardim-botanico.jpg" 
+           alt="Jardim Botânico" 
+           style="max-width: 100%; height: auto; border-radius: 4px;">
+      <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Jardim Botânico</p>
+      <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">8 min — 3,4 km</p>
+    </div>
+    <!-- Card 2 -->
+    <div style="width: 25%; text-align: center;" class="card-item">
+      <img src="locais/madero-jardim-social.jpg" 
+           alt="Madero Jardim Social" 
+           style="max-width: 100%; height: auto; border-radius: 4px;">
+      <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Madero Jardim Social</p>
+      <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">4 min — 1,4 km</p>
+    </div>
+    <!-- Card 3 -->
+    <div style="width: 25%; text-align: center;" class="card-item">
+      <img src="locais/muffato.jpg" 
+           alt="Muffato" 
+           style="max-width: 100%; height: auto; border-radius: 4px;">
+      <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Muffato</p>
+      <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">
+        3 min 700 m 1 min
+      </p>
+    </div>
+    <!-- Card 4 -->
+    <div style="width: 25%; text-align: center;" class="card-item">
+      <img src="locais/torre-sanepar.jpg" 
+           alt="Torre Sanepar" 
+           style="max-width: 100%; height: auto; border-radius: 4px;">
+      <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Torre Sanepar</p>
+      <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">25 min (6,8 km)</p>
+    </div>
+  </div>
+</div>
+
               <!-- Fim da grade de locais próximos -->
               
             </div>
