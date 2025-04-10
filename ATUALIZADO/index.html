@@ -1121,19 +1121,7 @@ var url = document.location.href;
       <div class="padding-global">
         <div class="w-layout-blockcontainer container-medium is-padding-top-0 w-container">
           <div class="sc_content-wrap">
-            <div class="header-vertical is-dark">
-              <div class="overline_wrap is-centered">
-                <div class="overline_icon w-embed">
-                  <svg width="100%" height="100%" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <!-- SVG inalterado -->
-                  </svg>
-                </div>
-                <p>Localização - Edifício Templários</p>
-              </div>
-              <div class="sc-header__title is-vertical-title">
-                <p class="heading-style-h3 is-balance">Viva em uma localização <span class="heading-span">excepcional</span></p>
-              </div>
-            </div>
+
             <div class="sc_content">
               <div class="full-list">
                 <div class="list-component">
@@ -1222,24 +1210,208 @@ var url = document.location.href;
       <div class="padding-global">
         <div class="w-layout-blockcontainer container-medium is-padding-top-0 w-container">
           <div class="sc_content-wrap">
-            <div class="header-vertical is-dark">
+
+            <div class="sc_content">
+
+              <div class="map-wrapper">
+                <div>
+                <section id="localizacao" class="sc-localizacao" style="margin-top: 40px; background-color: #0E2C3A; padding: 40px 0;">
+  <div class="localizacao_wrap" style="max-width: 1200px; margin: 0 auto;">
+    <div class="lc_bloco-01">
+      <div class="bg-wrap" style="position: relative;">
+        <!-- Ajuste se precisar dessa imagem de divider -->
+        <img src="images/divider-small-01-default.png.svg" 
+             loading="lazy" 
+             alt="" 
+             class="lc-bloco-01_bg-divider" 
+             style="display: block; margin: 0 auto;">
+        <div class="lc-bloco-01_bg"></div>
+      </div>
+
+      <div class="padding-global" style="padding: 0 20px;">
+        <div class="w-layout-blockcontainer container-medium is-padding-top-0 w-container" style="max-width: 1200px; margin: 0 auto;">
+          <div class="sc_content-wrap">
+            
+            <!-- Título principal -->
+            <div class="header-vertical is-dark" style="text-align: center; margin-bottom: 30px;">
               <div class="overline_wrap is-centered">
-                <div class="overline_icon w-embed">
-                  <svg width="100%" height="100%" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <div class="overline_icon w-embed" style="display: inline-block; vertical-align: middle;">
+                  <svg width="25" height="25" viewBox="0 0 22 22" fill="none" xmlns="http://www.w3.org/2000/svg">
                     <!-- SVG inalterado -->
                   </svg>
                 </div>
-                <p>Localização - Edifício Templários</p>
+                <p style="display: inline-block; margin-left: 8px; font-family: sans-serif; color: #F0F0F0; font-size: 14px;">
+                  Localização - Edifício Templários
+                </p>
+              </div>
+            </div>
+
+            <div class="sc_content" style="color: #FFFFFF; font-family: sans-serif;">
+              
+              <div class="sc-header__title is-vertical-title" style="text-align: center; margin-bottom: 25px;">
+                <p class="heading-style-h3 is-balance" 
+                   style="margin: 0; font-size: 28px; font-weight: 600; line-height: 1.2; text-transform: uppercase;">
+                  LOCAIS <span class="heading-span" style="color: #FFD700;">PRÓXIMOS</span>
+                </p>
+              </div>
+              
+              
+              <!-- Bloco de texto principal -->
+              <div class="_2-col-content" 
+                   style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 40px; color: #E0E0E0;">
+                
+                <div class="content-left" style="flex: 1 1 100%; max-width: 50%;">
+                  <div style="margin-bottom: 20px;">
+                    <div class="sc-header__title" style="margin-bottom: 10px;">
+                      <p class="heading-style-h4" 
+                         style="font-size: 20px; font-weight: 600; margin: 0 0 5px 0; color: #FFFFFF;">
+                        Rua Monte Castelo, 821 – 
+                        <span class="heading-span" style="color: #FFD700;">Próximo à Praça das Nações</span>
+                      </p>
+                      <img src="images/line-divider-heading.png" 
+                           loading="lazy" 
+                           alt="" 
+                           class="kv-divider" 
+                           style="max-width: 150px; height: auto;">
+                    </div>
+                  </div>
+                </div>
+                
+                <div class="content-right" style="flex: 1 1 100%; max-width: 50%;">
+                  <p class="text-size-medium line-height-distant" style="margin: 0 0 10px; font-size: 16px; line-height: 1.4;">
+                    Situado em uma área nobre e serena de Curitiba, o Edifício Templários oferece fácil acesso aos principais pontos da cidade, proporcionando uma experiência de moradia única.
+                  </p>
+                  <div class="text-color-secondary">
+                    <p class="text-size-medium line-height-distant" style="font-size: 16px; line-height: 1.4; color: #C0C0C0;">
+                      Descubra o equilíbrio perfeito entre conveniência urbana e tranquilidade residencial.
+                    </p>
+                  </div>
+                </div>
               </div>
 
-            </div>
-            <div class="sc_content">
-              <div class="sc-header__title is-vertical-title">
-                <p class="heading-style-h3 is-balance">LOCAIS  <span class="heading-span">PRÓXIMOS</span></p>
+              <!-- Início da grade de locais próximos (3 filas, 4 colunas) -->
+              <div style="display: flex; flex-direction: column; gap: 30px;">
+                
+                <!-- Linha 1 -->
+                <div style="display: flex; justify-content: space-between; gap: 20px;">
+                  <!-- Card 1 -->
+                  <div style="width: 25%; text-align: center;">
+                    <img src="locais/academia-carpediem.jpg" 
+                         alt="Academia Carpediem" 
+                         style="max-width: 100%; height: auto; border-radius: 4px;">
+                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Academia Carpediem</p>
+                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">6 min — 2,2 km</p>
+                  </div>
+                  <!-- Card 2 -->
+                  <div style="width: 25%; text-align: center;">
+                    <img src="locais/colegio-bom-jesus.jpg" 
+                         alt="Colégio Bom Jesus" 
+                         style="max-width: 100%; height: auto; border-radius: 4px;">
+                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Colégio Bom Jesus</p>
+                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">14 min — 5,2 km</p>
+                  </div>
+                  <!-- Card 3 -->
+                  <div style="width: 25%; text-align: center;">
+                    <img src="locais/colegio-positivo-ambiental.jpg" 
+                         alt="Colégio Positivo Ambiental" 
+                         style="max-width: 100%; height: auto; border-radius: 4px;">
+                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Colégio Positivo Ambiental</p>
+                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">7 min — 2,4 km</p>
+                  </div>
+                  <!-- Card 4 -->
+                  <div style="width: 25%; text-align: center;">
+                    <img src="locais/colegio-positivo.jpg" 
+                         alt="Colégio Positivo" 
+                         style="max-width: 100%; height: auto; border-radius: 4px;">
+                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Colégio Positivo</p>
+                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">19 min — 7,6 km</p>
+                  </div>
+                </div>
+
+                <!-- Linha 2 -->
+                <div style="display: flex; justify-content: space-between; gap: 20px;">
+                  <!-- Card 1 -->
+                  <div style="width: 25%; text-align: center;">
+                    <img src="locais/familia-farinha-lima.jpg" 
+                         alt="Familia Farinha Lima" 
+                         style="max-width: 100%; height: auto; border-radius: 4px;">
+                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Familia Farinha Lima</p>
+                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">4 min — 1,5 km</p>
+                  </div>
+                  <!-- Card 2 -->
+                  <div style="width: 25%; text-align: center;">
+                    <img src="locais/festival-jardim-social.jpg" 
+                         alt="Festival Jardim Social" 
+                         style="max-width: 100%; height: auto; border-radius: 4px;">
+                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Festival Jardim Social</p>
+                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">3 min — 1,2 km</p>
+                  </div>
+                  <!-- Card 3 -->
+                  <div style="width: 25%; text-align: center;">
+                    <img src="locais/hospital-das-nacoes.jpg" 
+                         alt="Hospital das Nações" 
+                         style="max-width: 100%; height: auto; border-radius: 4px;">
+                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Hospital das Nações</p>
+                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">4 min — 1,7 km</p>
+                  </div>
+                  <!-- Card 4 -->
+                  <div style="width: 25%; text-align: center;">
+                    <img src="locais/hospital-marcelino-champagna.jpg" 
+                         alt="Hospital Marcelino Champagnat" 
+                         style="max-width: 100%; height: auto; border-radius: 4px;">
+                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Hospital Marcelino Champagnat</p>
+                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">7 min — 2,3 km</p>
+                  </div>
+                </div>
+
+                <!-- Linha 3 -->
+                <div style="display: flex; justify-content: space-between; gap: 20px;">
+                  <!-- Card 1 -->
+                  <div style="width: 25%; text-align: center;">
+                    <img src="locais/jardim-botanico.jpg" 
+                         alt="Jardim Botânico" 
+                         style="max-width: 100%; height: auto; border-radius: 4px;">
+                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Jardim Botânico</p>
+                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">8 min — 3,4 km</p>
+                  </div>
+                  <!-- Card 2 -->
+                  <div style="width: 25%; text-align: center;">
+                    <img src="locais/madero-jardim-social.jpg" 
+                         alt="Madero Jardim Social" 
+                         style="max-width: 100%; height: auto; border-radius: 4px;">
+                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Madero Jardim Social</p>
+                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">4 min — 1,4 km</p>
+                  </div>
+                  <!-- Card 3 -->
+                  <div style="width: 25%; text-align: center;">
+                    <img src="locais/muffato.jpg" 
+                         alt="Muffato" 
+                         style="max-width: 100%; height: auto; border-radius: 4px;">
+                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Muffato</p>
+                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">
+                      3 min 700 m 1 min
+                    </p>
+                  </div>
+                  <!-- Card 4 -->
+                  <div style="width: 25%; text-align: center;">
+                    <img src="locais/torre-sanepar.jpg" 
+                         alt="Torre Sanepar" 
+                         style="max-width: 100%; height: auto; border-radius: 4px;">
+                    <p style="margin: 10px 0 0; font-weight: 600; font-size: 16px; color: #F5F5F5;">Torre Sanepar</p>
+                    <p style="margin: 5px 0; font-size: 14px; color: #D0D0D0;">25 min (6,8 km)</p>
+                  </div>
+                </div>
               </div>
-              <div class="map-wrapper">
-                <div>
-                  <img src="images/locais.jpg">
+              <!-- Fim da grade de locais próximos -->
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
                 </div>
                 
               </div>
